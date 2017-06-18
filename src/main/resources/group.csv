@@ -1,0 +1,3 @@
+idinteraccion,idorigen,tipoorigen,iddestino,tipodestino,tipointeraccion,valorinteraccion,idprecedente,idcurso,fecha,plataforma
+1, A, alumno, B, alumno, mensaje, Hola, null, 50, 2017-01-10, PAM
+2, B, alumno, A, alumno, mensaje, Hola, null, 50, 2017-01-10, PAM
